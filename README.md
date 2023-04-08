@@ -128,5 +128,5 @@ Esta misión tiene 7 módulos que tienen varios subtemas que iremos viendo confo
 - [Logging y seguridad]()
 - [Empleabilidad y consejos finales]()
 
-Recuerda que la práctica hace al maestro, recuerda que no hay preguntas tontas, lo tonto es no preguntar y Recuerda que esto no es Brujería, es Tecnología. 🪄
+Recuerda que la práctica hace al maestro, recuerda que no hay preguntas tontas, lo tonto es no preguntar y Recuerda que esto no es Brujería, es Tecnología.
 
